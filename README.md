@@ -11,10 +11,10 @@
 
 <!-- 目录 -->
 <ul class="navbar">
-  <li><a href="index.html">mian page</a>
-  <li><a href="musings.html">link1</a>
-  <li><a href="town.html">link2</a>
-  <li><a href="links.html">link3</a>
+  <li><a href="QueZiWei.github.io">home page</a>
+  <li><a href="Mooncity.xlsx">Mooncity</a>
+  <li><a href="MyWord.docx">MyWord</a>
+  <li><a href="piechart.xlsx">piechart</a>
 </ul>
 
 <!-- 主要内容 -->
