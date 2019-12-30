@@ -3,7 +3,6 @@
 <html>
 <head>
   <title>CV</title>
-  <style type="text/css">
   <link rel="stylesheet" href="mystyle.css">
 </head>
 
