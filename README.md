@@ -14,6 +14,7 @@
   <li><a href="Mooncity,xlsx.xlsx">Mooncity</a>
   <li><a href="MyWord.docx">MyWord</a>
   <li><a href="piechart.xlsx.xlsx">piechart</a>
+  <li><a href="MyPPT.pptx">MyPPT</a>
 </ul>
 
 <!-- 主要内容 -->
